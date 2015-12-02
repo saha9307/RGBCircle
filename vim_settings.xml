@@ -1,0 +1,82 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1448727398672">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rgbcircles/src/ru/khasang/rgbcircles/CanvasView.java" timestamp="1448727715277">
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rgbcircles/src/ru/khasang/rgbcircles/MyActivity.java" timestamp="1448727457792">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rgbcircles/res/layout/main.xml" timestamp="1448727655838">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rgbcircles/src/ru/khasang/rgbcircles/MainCircle.java" timestamp="1448727956781">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="/fragment.java" timestamp="1448725854131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rgbcircles/AndroidManifest.xml" timestamp="1448727635414">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgQzpcVXNlcnNcT2xla3NhbmRyXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxzZGs=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgQzpcVXNlcnNcT2xla3NhbmRyXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxzZGs=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCwgTXlBY3Rpdml0eSIKICAgIC8+</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqIENhbGxlZCB3aGVuIHRoZSBhY3Rpdml0eSBpcyBmaXJzdCBjcmVhdGVkLgogICAgICovCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0Lm1haW4pOwogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkLCBNeUFjdGl2aXR5IgogICAgLz4=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgQzpcVXNlcnNcT2xla3NhbmRyXEFwcERhdGFcTG9jYWxcQW5kcm9pZFxzZGs=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
